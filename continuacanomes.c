@@ -1,5 +1,6 @@
-/* Implemente as funções "ler_pessoa( )" e "mostrar_pessoa( )", as quais devem
-receber e mostrar os dados de uma determinada pessoa.*/
+/*Implemente as funções "ler_pessoa( )" e "mostrar_pessoa( )", as quais devem
+receber e mostrar os dados de uma determinada pessoa*/
+
 
 #include <stdio.h>
 #include <string.h>
